@@ -1,0 +1,7 @@
+H:\IS271\Code Demonstrations\LoanDemo\LoanUser\LoanApplicationTest\bin\Debug\LoanApplicationTest.dll
+H:\IS271\Code Demonstrations\LoanDemo\LoanUser\LoanApplicationTest\bin\Debug\LoanApplicationTest.pdb
+H:\IS271\Code Demonstrations\LoanDemo\LoanUser\LoanApplicationTest\bin\Debug\LoanCalculator.dll
+H:\IS271\Code Demonstrations\LoanDemo\LoanUser\LoanApplicationTest\bin\Debug\LoanCalculator.pdb
+H:\IS271\Code Demonstrations\LoanDemo\LoanUser\LoanApplicationTest\obj\Debug\LoanApplicationTest.csprojResolveAssemblyReference.cache
+H:\IS271\Code Demonstrations\LoanDemo\LoanUser\LoanApplicationTest\obj\Debug\LoanApplicationTest.dll
+H:\IS271\Code Demonstrations\LoanDemo\LoanUser\LoanApplicationTest\obj\Debug\LoanApplicationTest.pdb
